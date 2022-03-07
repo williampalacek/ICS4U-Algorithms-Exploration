@@ -1,5 +1,5 @@
 # **ICS4U-Algorithms-Exploration**
-! [Rubiks Cube sitting on stand](https://i.imgur.com/u0iH4GB.jpg)
+<img src="https://i.imgur.com/u0iH4GB.jpg" alt="Rubiks cube sitting on stand" width="400" height="250"/>
 
 ## Current skills
 As of **2022-03-07** I am currently working on the pyraminx in which I am able to solve. 
