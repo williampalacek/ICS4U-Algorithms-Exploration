@@ -19,3 +19,12 @@ As of **2022-03-08** I have been able to solve slightly faster then yesterday, b
 | ao5 | 31.23 |
 | ao12 | 33.01 |
 | ao25 | 33.89 |
+
+
+## Skills after day 3
+As of **2022-03-09** I have been able to solve faster then yesterday and get more consitent time. Furthermore, I got a fast solve. and sub 30 average.
+| Average | Time (s) |
+| ----------- | ----------- |
+| ao5 | 29.03 |
+| ao12 | 29.78 |
+| ao25 | 29.98 |
