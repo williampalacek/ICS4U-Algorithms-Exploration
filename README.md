@@ -74,13 +74,13 @@ As of **2022-03-21** I am no able to solve the cube although rather slow, and so
 
 ## Sighted solves
 **Number 1**
-Judged by Mr.Osudar
+Judged by *Mr.Osudar*
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | 24.46 |
 
 **Number 2**
-Judged by Mr.Osudar
+Judged by *Mr.Osudar*
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | 24.35 |
