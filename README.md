@@ -29,6 +29,8 @@ As of **2022-03-09** I have been able to solve faster then yesterday and get mor
 | ao12 | 29.78 |
 | ao25 | 29.98 |
 
+Solving the pyraminx has proved to be very benificial and I belive that I have made substancial progress in decreasing my times.
+
 ## Starting the 2x2
 As of **2022-03-10** I am currently unable to solve the 2x2 and so will begin watching youtube videos.
 | Average | Time (s) |
@@ -43,6 +45,9 @@ As of **2022-03-15** I am no able to solve more consistently but not much faster
 | ao5 | 4:56 |
 | ao12 | 5:10 |
 
+Although I am by no means fast at solving the 2x2 my solves are getting more and more consistent and so while I am moving on to another cube I will continue to
+work on the 2x2 on my own time.
+
 ## Starting the 3x3
 As of **2022-03-17** I have located a 23x3 at my house and will begin solving it. I am currently able to solve 1 layer.
 | Average | Time (s) |
@@ -50,25 +55,39 @@ As of **2022-03-17** I have located a 23x3 at my house and will begin solving it
 | ao5 | DNF |
 | ao12 | DNF |
 
-## Starting the 3x3
+## Continuing the 3x3
 As of **2022-03-19** I have made progress in solving this cube and am able to solve 2 layers.
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | DNF |
 | ao12 | DNF |
 
+Although I am currently unable to solve the 3x3 I am making substantial progress as I am getting more comfident and more capable at solving more layers.
+
+## Continuing the 3x3
+As of **2022-03-21** I am no able to solve the cube although rather slow, and so due to how long my solves are I am adding a ao3
+| Average | Time (s) |
+| ----------- | ----------- |
+| ao3 | 20:34 |
+| ao5 | DNF |
+| ao12 | DNF |
+
 ## Sighted solves
 **Number 1**
+Judged by Mr.Osudar
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | 24.46 |
 
 **Number 2**
+Judged by Mr.Osudar
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | 24.35 |
 
 **Number 3**
+Judged fellow classmate
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | 23.24 |
+| ao12 | 22.98 |
