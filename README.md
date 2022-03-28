@@ -65,10 +65,18 @@ As of **2022-03-19** I have made progress in solving this cube and am able to so
 Although I am currently unable to solve the 3x3 I am making substantial progress as I am getting more comfident and more capable at solving more layers.
 
 ## Continuing the 3x3
-As of **2022-03-21** I am no able to solve the cube although rather slow, and so due to how long my solves are I am adding a ao3
+As of **2022-03-21** I am now able to solve the cube although rather slow, and so due to how long my solves are I am adding a ao3
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao3 | 20:34 |
+| ao5 | DNF |
+| ao12 | DNF |
+
+## Working on the 3x3
+As of **2022-03-28** I am able to solve it significantly faster than before.
+| Average | Time (s) |
+| ----------- | ----------- |
+| ao3 | 17:35 |
 | ao5 | DNF |
 | ao12 | DNF |
 
