@@ -88,6 +88,14 @@ As of **2022-03-29** I am now able to acheieve a ao5.
 | ao5 | 11:03 |
 | ao12 | DNF |
 
+## Working on the 3x3
+As of **2022-03-29** I am now able to acheieve a ao12.
+| Average | Time (s) |
+| ----------- | ----------- |
+| ao3 | 10:22 |
+| ao5 | 11:03 |
+| ao12 | 10:57 |
+
 ## Sighted solves
 **Number 1**
 Judged by *Mr.Osudar*
