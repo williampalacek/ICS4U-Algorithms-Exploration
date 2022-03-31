@@ -115,3 +115,11 @@ Judged fellow classmate
 | ----------- | ----------- |
 | ao5 | 23.24 |
 | ao12 | 22.98 |
+
+## Resuming the pyraminx
+As of **2022-03-31** I am now returning to the pyraminx. I have also found that going slowly actually ends up in faster times
+| Average | Time (s) |
+| ----------- | ----------- |
+| ao5 | 28.03 |
+| ao12 | 28.78 |
+| ao25 | 29.02 |
