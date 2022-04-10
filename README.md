@@ -22,14 +22,14 @@ As of **2022-03-08** I have been able to solve slightly faster then yesterday, b
 
 
 ## Skills after day 3
-As of **2022-03-09** I have been able to solve faster then yesterday and get more consitent time. Furthermore, I got a fast solve. and sub 30 average.
+As of **2022-03-09** I have been able to solve faster then yesterday and get more consistent time. Furthermore, I got a fast solve. and sub 30 average.
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao5 | 29.03 |
 | ao12 | 29.78 |
 | ao25 | 29.98 |
 
-Solving the pyraminx has proved to be very benificial and I belive that I have made substancial progress in decreasing my times.
+Solving the pyraminx has proved to be very beneficial and I believe that I have made substantial progress in decreasing my times.
 
 ## Starting the 2x2
 As of **2022-03-10** I am currently unable to solve the 2x2 and so will begin watching youtube videos.
@@ -62,7 +62,7 @@ As of **2022-03-19** I have made progress in solving this cube and am able to so
 | ao5 | DNF |
 | ao12 | DNF |
 
-Although I am currently unable to solve the 3x3 I am making substantial progress as I am getting more comfident and more capable at solving more layers.
+Although I am currently unable to solve the 3x3 I am making substantial progress as I am getting more confident and more capable at solving more layers.
 
 ## Continuing the 3x3
 As of **2022-03-21** I am now able to solve the cube although rather slow, and so due to how long my solves are I am adding a ao3
@@ -81,7 +81,7 @@ As of **2022-03-28** I am able to solve it significantly faster than before.
 | ao12 | DNF |
 
 ## Working on the 3x3
-As of **2022-03-29** I am now able to acheieve a ao5.
+As of **2022-03-29** I am now able to achieve a ao5.
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao3 | 10:22 |
@@ -89,7 +89,7 @@ As of **2022-03-29** I am now able to acheieve a ao5.
 | ao12 | DNF |
 
 ## Working on the 3x3
-As of **2022-03-29** I am now able to acheieve a ao12.
+As of **2022-03-29** I am now able to achieve a ao12.
 | Average | Time (s) |
 | ----------- | ----------- |
 | ao3 | 10:22 |
