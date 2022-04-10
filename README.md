@@ -29,7 +29,7 @@ As of **2022-03-09** I have been able to solve faster then yesterday and get mor
 | ao12 | 29.78 |
 | ao25 | 29.98 |
 
-Solving the pyraminx has proved to be very beneficial and I believe that I have made substantial progress in decreasing my times.
+Solving the Pyraminx has proved to be very beneficial and I believe that I have made substantial progress in decreasing my times.
 
 ## Starting the 2x2
 As of **2022-03-10** I am currently unable to solve the 2x2 and so will begin watching youtube videos.

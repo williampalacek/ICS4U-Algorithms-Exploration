@@ -1,4 +1,4 @@
-## Sources
+## Sources used:
 https://cstimer.net/
 
 https://www.rubiks.com/en-us/how-to-solve-rubiks-cube
